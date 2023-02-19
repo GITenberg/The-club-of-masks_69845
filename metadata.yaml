@@ -1,5 +1,8 @@
 _repo: The-club-of-masks_69845
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69845-h/images/cover.jpg
 creator:
   author:
     agent_name: Upward, Allen
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32167
     wikipedia: https://en.wikipedia.org/wiki/Allen_Upward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69845#The-club-of-masks
 gutenberg_issued: '2023-01-20'
 identifiers:
   gutenberg: '69845'
